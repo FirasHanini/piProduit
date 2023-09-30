@@ -5,9 +5,6 @@
  */
 package myfirstapplication;
 
-import myfirstapplication.models.Produit;
-import myfirstapplication.models.ProduitVue;
-
 /**
  *
  * @author Utilisateur 2

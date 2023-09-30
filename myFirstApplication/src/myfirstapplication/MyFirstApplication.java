@@ -5,8 +5,6 @@
  */
 package myfirstapplication;
 
-import myfirstapplication.models.Produit;
-
 
 
 
